@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<packageId>Enwact.Priority10</packageId>
+	<name>Priority 10</name>
+	<author>Enwact</author>
+	<description>Expands RimWorld work priorities from 4 to 10. Add the ability to adjust priorities using the mouse wheel.</description>
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<modVersion>1.0</modVersion>
+	<targetVersion>1.6.0</targetVersion>
+	<loadAfter>
+		<li>brrainz.harmony</li>
+	</loadAfter>
+</ModMetaData>
